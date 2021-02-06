@@ -1,0 +1,5 @@
+- select * from cycle;
+- select * from cycle where id_merk = 1;
+- UPDATE cycle,merk SET cycle.nama= "speda",merk.nama="speda" where id_merk=1;
+- select * from cycle where stock = 2;
+- select * from cycle where nama = "BMX";
